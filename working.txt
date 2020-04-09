@@ -1,0 +1,8 @@
+1. After loading the dataset we clean it from very Discreet impossible for real life values.
+2. Before cleaning the dataset looks like image - original and predicted after Learning.jpg
+3. data cleaning is not very universal so some data may look discreet.
+4. Linear Regression is  used as it seems to be most effective in this dataset.
+5. (in original and predicted after Learning.jpg) Finally the left graph shows all values of data of houses 
+   and the right one shows one after 40% of data is predicted and is showed as red squares while cyan stars 
+   shows testing data.
+6. The End.
